@@ -1,0 +1,5 @@
+username = "dbAdmin"
+password = "dbAdmin"
+dbName = "dbFriendsFacts"
+colName = "colFriendsFacts"
+connectionString = "mongodb+srv://dbAdmin:"+password+"@digicertcluster.fqklo.mongodb.net/"+dbName+"?retryWrites=true&w=majority"

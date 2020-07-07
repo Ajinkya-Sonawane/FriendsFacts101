@@ -1,0 +1,550 @@
+INFO:werkzeug:127.0.0.1 - - [05/Jul/2020 19:40:27] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'f:\\Python Programs\\FriendsAPI\\FriendsFactsAPI.py', reloading
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:12:24] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'f:\\Python Programs\\FriendsAPI\\FriendsFactsAPI.py', reloading
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:13:40] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:13:45] "GET /list HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:13:46] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:13:48] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:14:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:14:51] "GET /static//img/fact.png HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:14:51] "GET /static//img//header.jpg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:14:51] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:46] "GET /static/img/fact.png HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:46] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:46] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:46] "GET /static/img/header.jpg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:47] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:58] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:58] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:58] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:59] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:17:59] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:18:06] "GET /list HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:18:07] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:18:08] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:18:10] "GET /rnd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:18:10] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:18:12] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:18:13] "GET /2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:18:14] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:18:16] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:19:26] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:19:30] "GET /list HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:19:31] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:19:32] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:19:34] "GET /rnd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:19:34] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:19:52] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:19:54] "GET /2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:19:54] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:20:03] "GET /favicon.ico HTTP/1.1" 500 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:20:46] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:20:49] "GET /rnd HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:20:49] "GET /favicon.ico HTTP/1.1" 500 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:22:04] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:22:08] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:22:09] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'f:\\Python Programs\\FriendsAPI\\FriendsFactsAPI.py', reloading
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:23:11] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:23:13] "GET /list HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:23:14] "GET /favicon.ico HTTP/1.1" 500 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:23:17] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:23:18] "GET /rnd HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:23:19] "GET /favicon.ico HTTP/1.1" 500 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:23:20] "GET /favicon.ico HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:23:21] "GET /2 HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:23:22] "GET /favicon.ico HTTP/1.1" 500 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:23:24] "GET /favicon.ico HTTP/1.1" 500 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:25:55] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:25:59] "GET /list HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:00] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:03] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:04] "GET /rnd HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:05] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:07] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:08] "GET /rnd HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:09] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:11] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:16] "GET /2 HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:16] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:26:18] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:27:01] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:27:02] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:43:29] "GET /dbDetails.py HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:43:31] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:43:34] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:43:35] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'f:\\Python Programs\\FriendsAPI\\FriendsFactsAPI.py', reloading
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:46:18] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:46:22] "GET /asd HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:46:23] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:46:27] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:46:34] "GET /asd/asd HTTP/1.1" 404 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:46:34] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:46:40] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:47:51] "GET /static/header.jpg HTTP/1.1" 404 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:47:52] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:48:06] "GET /static/header.jpg HTTP/1.1" 404 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:48:07] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:48:26] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:48:27] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:48:39] "GET /rnd HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:48:40] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:48:42] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:48:44] "GET /2 HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:48:45] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:48:46] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:51:44] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:51:46] "GET /list HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:51:47] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:51:53] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:56:54] "GET /2 HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:56:54] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:57:34] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:57:38] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:57:39] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:01] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:01] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:01] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:01] "GET /static/img/header.jpg HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:02] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:12] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:12] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:12] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:12] "GET /static/img/header.jpg HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:13] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:32] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:33] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:37] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:37] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:45] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:46] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:58] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:58] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:58] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:58] "GET /static/img/header.jpg HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 00:59:58] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:01:11] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:01:12] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:01:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:01:34] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:01:34] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:01:34] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:01:34] "GET /static/img/header.jpg HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:01:35] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:38] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:38] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:38] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:38] "GET /static/img/header.jpg HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:39] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:49] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:49] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:49] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:49] "GET /static/img/header.jpg HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:05:50] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:06:00] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:06:01] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:06:44] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:07:00] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:07:16] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:07:17] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:07:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:07:56] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:07:56] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:07:56] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:07:56] "GET /static/img/header.jpg HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:07:57] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:12:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:12:18] "GET /static/img/github.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:12:19] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:12:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:12:39] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:12:39] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:12:39] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:12:39] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:12:39] "GET /static/img/github.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:12:40] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:13:13] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:13:14] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:13:32] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:13:34] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:20] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:20] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:20] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:20] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:20] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:20] "GET /static/img/meidum.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:21] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:45] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:46] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:54] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:54] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:54] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:54] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:54] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:54] "GET /static/img/meidum.png HTTP/1.1" 404 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:16:55] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:13] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:13] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:14] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:14] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:14] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:14] "GET /static/img/medium.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:15] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:30] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:30] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:30] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:30] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:30] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:30] "GET /static/img/medium.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:17:31] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:19:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:19:53] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:19:53] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:19:53] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:19:53] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:19:53] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:19:53] "GET /static/img/medium.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:19:54] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:00] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:00] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:00] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:00] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:00] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:00] "GET /static/img/medium.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:01] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:21] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:21] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:21] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:21] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:21] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:21] "GET /static/img/medium.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:22] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:32] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:32] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:32] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:32] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:32] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:33] "GET /static/img/medium.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:33] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:48] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:48] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:48] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:48] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:48] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:48] "GET /static/img/medium.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:20:50] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:21:03] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:21:04] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:22:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:22:33] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:22:33] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:22:33] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:22:33] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:22:33] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:22:33] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:22:33] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:22:34] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:23:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:23:59] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:23:59] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:23:59] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:23:59] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:23:59] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:23:59] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:23:59] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:00] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:18] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:18] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:24] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:24] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:24] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:24] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:24] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:24] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:24] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:24:24] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:25:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:25:23] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:25:23] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:25:23] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:25:23] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:25:23] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:25:23] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:25:23] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:25:25] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:27] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:27] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:27] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:27] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:27] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:27] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:27] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:28] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:32] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:33] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:51] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:51] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:51] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:51] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:51] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:51] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:51] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:26:52] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:27:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:27:50] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:27:50] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:27:50] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:27:50] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:27:50] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:27:50] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:27:50] "GET /static/img/header.jpg HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:27:51] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:29:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:29:15] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:29:15] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:29:15] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:29:15] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:29:15] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:29:15] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:29:15] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:29:16] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:30:49] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:30:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:30:49] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:30:49] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:30:49] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:30:49] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:30:49] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:30:49] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:30:49] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:30:50] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:21] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:21] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:21] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:21] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:21] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:21] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:21] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:22] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:48] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:48] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:48] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:48] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:48] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:48] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:48] "GET /static/img/medium.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:32:49] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:34:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:34:28] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:34:28] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:34:28] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:34:28] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:34:28] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:34:28] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:34:28] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:34:29] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:11] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:11] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:11] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:11] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:11] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:11] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:11] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:12] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:44] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:44] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:44] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:44] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:44] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:44] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:44] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:37:46] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:09] "GET / HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:09] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:22] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:22] "GET /static/stylesheets/tailwind.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:22] "GET /static/img/fact.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:22] "GET /static/img/header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:22] "GET /static/img/github.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:22] "GET /static/img/medium.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:22] "GET /static/img/linkedin.png HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:38:23] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:39:48] "GET /2 HTTP/1.1" 200 -
+ERROR:root:'NoneType' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2020 01:39:49] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:root:The "dnspython" module must be installed to use mongodb+srv:// URIs
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:02] "[35m[1mGET /list HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ERROR:root:The "dnspython" module must be installed to use mongodb+srv:// URIs
+ERROR:root:'str' object has no attribute 'find_one'
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:26] "[35m[1mGET /rnd HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:26] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:26] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:26] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:26] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:26] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ERROR:root:The "dnspython" module must be installed to use mongodb+srv:// URIs
+ERROR:root:'str' object has no attribute 'find_one'
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:31] "[37mGET /2 HTTP/1.1[0m" 200 -
+ERROR:root:The "dnspython" module must be installed to use mongodb+srv:// URIs
+ERROR:root:'str' object has no attribute 'find_one'
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:35:32] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+ERROR:root:The "dnspython" module must be installed to use mongodb+srv:// URIs
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:38:01] "[35m[1mGET /list HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:38:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:38:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:38:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:38:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:38:02] "[37mGET /list?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+ERROR:root:The "dnspython" module must be installed to use mongodb+srv:// URIs
+ERROR:root:slice indices must be integers or None or have an __index__ method
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:17] "[37mGET /list HTTP/1.1[0m" 200 -
+ERROR:root:The "dnspython" module must be installed to use mongodb+srv:// URIs
+ERROR:root:'str' object has no attribute 'find_one'
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:18] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+ERROR:root:The "dnspython" module must be installed to use mongodb+srv:// URIs
+ERROR:root:'str' object has no attribute 'find_one'
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:22] "[35m[1mGET /rnd HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:22] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:22] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:22] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:22] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:22] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'F:\\Python Programs\\FriendsAPI\\FriendsFactsAPI.py', reloading
+ERROR:root:The "dnspython" module must be installed to use mongodb+srv:// URIs
+ERROR:root:'str' object has no attribute 'find_one'
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:58] "[35m[1mGET /rnd HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:59] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:59] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:59] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:59] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:39:59] "[37mGET /rnd?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ERROR:root:'NoneType' object has no attribute '__getitem__'
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:42:50] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:42:53] "[37mGET /list HTTP/1.1[0m" 200 -
+ERROR:root:'NoneType' object has no attribute '__getitem__'
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:42:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:42:58] "[37mGET /2 HTTP/1.1[0m" 200 -
+ERROR:root:'NoneType' object has no attribute '__getitem__'
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2020 18:42:58] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -

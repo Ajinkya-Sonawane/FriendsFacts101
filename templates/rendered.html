@@ -1,0 +1,38 @@
+<!doctype html>
+<head>
+    <title>Friends Facts</title>
+    <style>
+        .data{
+            background-color: lightblue;
+            /* width: 300px; */
+            font-size: 20px;
+            padding: 10px;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            transition: 0.3s;
+            border-radius: 5px; 
+        }
+        .data::hover {
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        }
+        .main {
+            display: grid;            
+            border-spacing: 10px; /*Optional*/
+            grid-template-columns: auto auto auto;
+            grid-gap: 1em;
+            padding: 10px;            
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        {% for fact in data %}
+        <div class="data"><b>Fact :</b> {{fact.fact}}
+        {% if not fact.description == "" %}
+        <br><b>Description :</b> {{fact.description}}</div>
+        {% else %}
+        </div>
+        {% endif %}        
+        {% endfor %}
+    </div>
+</body>
+</html>
